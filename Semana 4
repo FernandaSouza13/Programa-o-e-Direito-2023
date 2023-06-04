@@ -1,0 +1,22 @@
+
+>Python:
+Python é uma linguagem de programação de alto nível, interpretada e de propósito geral. É conhecida por ser mais limpa e legível, o que facilita a escrita e a compreensão do código.
+-Python code:
+print("Hello, World!")
+
+>Java:
+Java é uma linguagem de programação de propósito geral, orientada a objetos e muito utilizada. Foi projetada para ser portátil, o que significa que os programas escritos em Java podem ser executados em diferentes sistemas operacionais sem a necessidade de alterações. A linguagem é conhecida por sua segurança, robustez e escalabilidade. Portanto, é muito utilizada no desenvolvimento de aplicativos empresariais, jogos e sistemas embarcados.
+-Java code:
+public class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("Hello, World!");
+    }
+}
+
+
+>JavaScript:
+JavaScript é uma linguagem de programação voltada para o desenvolvimento web. Diferindo-se do Java, JavaScript não é uma versão reduzida da linguagem Java. É uma linguagem de script interpretada que é executada no navegador do cliente, permitindo a interatividade e a manipulação de elementos HTML e CSS em uma página web.
+-JavaScript code:
+console.log("Hello, World!");
+
+
